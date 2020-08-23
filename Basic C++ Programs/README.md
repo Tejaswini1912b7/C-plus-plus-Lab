@@ -3,7 +3,7 @@
 i)
 
 1. Working of arithmetic operators (+,-,%,x,/)
-
+https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/arithmetic_opreators_output.png
 
 2. Increment and Decrement Operators (Pre & Post)
 
