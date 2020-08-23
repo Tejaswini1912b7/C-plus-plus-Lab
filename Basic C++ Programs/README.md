@@ -52,7 +52,7 @@ https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%2
 https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_sum_using_continue.png
 
 10. Program to create a simple calculator (Using switch statement)
-
+https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/1_output_calculator_using_switch.png
 
 11. Program to calculate the sum and average of positive numbers,If the user enters a negative number, the sum and average are displayed(using goto).
 
