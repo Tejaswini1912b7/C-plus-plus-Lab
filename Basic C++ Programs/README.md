@@ -6,7 +6,7 @@ i)
 https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/arithmetic_opreators_output.png
 
 2. Increment and Decrement Operators (Pre & Post)
-
+https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_incre_decrement_operators.png
 
 3. Assignment Operators (+=,-=,x=,/=)
 
