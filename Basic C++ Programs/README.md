@@ -9,7 +9,7 @@ https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%2
 https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_incre_decrement_operators.png
 
 3. Assignment Operators (+=,-=,x=,/=)
-
+https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_assignment_operators.png
 
 4. Working of relational operators(>,<,==,<=,>=,!=)
 
