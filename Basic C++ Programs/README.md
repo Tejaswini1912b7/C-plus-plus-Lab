@@ -28,8 +28,7 @@ https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%2
 
 2. Check whether an integer is odd or even
 https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_even_or_odd_number.png
-
-
+https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_even_odd_number.png
 
 3. Program to relate two integers using =, > or < symbol
 
