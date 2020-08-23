@@ -24,7 +24,7 @@ https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%2
 ii)
 
 1. Program to display a number if it is negative
-
+https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_-ve(or)%2Bve_number.png
 
 2. Check whether an integer is odd or even
 
