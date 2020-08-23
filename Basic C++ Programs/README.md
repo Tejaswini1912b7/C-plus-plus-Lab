@@ -43,7 +43,7 @@ https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%2
 https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_print_1to5.png
 
 7. Program to add numbers until the user enters zero
-
+https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_add_num_till_0.png
 
 8. Program to calculate the sum of a maximum of 10 numbers, If a negative number is entered, the loop terminates (Using Break)
 
