@@ -37,7 +37,7 @@ https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%2
 https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_Nested_if_else.png
 
 5. Program to calculate the sum of first n natural numbers
-
+https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_sum_of_n.png
 
 6. Print numbers from 1 to 5
 
