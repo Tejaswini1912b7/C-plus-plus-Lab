@@ -18,7 +18,7 @@ https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%2
 https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_logical_operators.png
 
 6. sizeof Operator (sizeof())
-
+https://github.com/Tejaswini1912b7/C-plus-plus-Lab/blob/master/Basic%20C%2B%2B%20Programs/output_size()_operator.png
 
 
 ii)
